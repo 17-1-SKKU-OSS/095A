@@ -1,5 +1,4 @@
 # 095A
 
-Page :  https://limecitron.github.io/
-수정 테스트
-https://github.com/17-1-SKKU-OSS/Stocktalk
+Static Page :  https://17-1-skku-oss.github.io/095A/
+Project : https://github.com/17-1-SKKU-OSS/Stocktalk
